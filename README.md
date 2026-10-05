@@ -29,36 +29,3 @@ resultados/alertas.csv           <- se genera al ejecutar
 evidencias/                      <- captura de reproducibilidad
 requirements.txt
 ```
-
-## Instalación
-
-Requiere Python 3.10 o superior. Desde la carpeta del proyecto:
-
-**Windows (PowerShell):**
-```
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-```
-
-**macOS / Linux:**
-```
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-## Ejecución
-
-Programa de Python:
-```
-python analisis.py
-```
-
-Notebook (opcional):
-```
-jupyter notebook analisis.ipynb
-```
-Luego usa **Run → Run All Cells**.
-
-Al terminar se crea `resultados/alertas.csv` con todas las lecturas mayores que 85 °C y las mismas columnas del archivo original.
