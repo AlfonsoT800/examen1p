@@ -1,6 +1,7 @@
 **INFORME**
 
 Nombre:Alfonso Salazar Flores
+
 Grupo: IDIA 222
 
 **5. Las 5 V aplicadas al proyecto**
