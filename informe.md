@@ -1,7 +1,6 @@
-**Informe: Aplicación de Big Data al sistema de sensores industriales**
+**INFORME**
 
-Nombre: MALTRANA LUNA ELIAS FRANCISCO
-
+Nombre:Alfonso Salazar Flores
 Grupo: IDIA 222
 
 **5. Las 5 V aplicadas al proyecto**
